@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box{
+    position: sticky;
+    width: 90%;
+    height: 100px;
+    background-color: green; 
+    top: 0;
+    margin-left: 60px;
+}
